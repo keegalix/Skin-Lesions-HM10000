@@ -1,0 +1,10 @@
+# dataset (multi-GB, regenerate with fetch_data.py + quality.py)
+data/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# trained checkpoints
+models/
